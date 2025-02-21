@@ -1,4 +1,9 @@
-## Hi there 👋
+## Hello There
+
+My name is Lou.
+
+I like knitting and cats
+
 
 <!--
 **Murdork/Murdork** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
